@@ -1,5 +1,5 @@
 
-<h1 align="center">🌟 React Mini Projects</h1>
+<h1 align="center">🌟 React Tiny Projects</h1>
 
 <p align="center">Welcome to the <strong>React Mini Projects </strong>repository! Get ready to embark on an exciting coding journey with a collection of <strong>tiny yet powerful projects</strong> that have sparked joy and supercharged my coding skills!</p>
 
