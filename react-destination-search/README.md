@@ -1,6 +1,6 @@
 ## 🌟 React Destination Search
 
-<p align="center">Welcome to the React Destination Search app! Get ready to embark on an exciting journey of exploration and discovery. Search for your dream destinations and uncover hidden gems with just a few clicks. Let's dive in and ignite your wanderlust!</p>
+<p align="center">Welcome to the React Destination Search app!</p>
 
 ### 💡 Project Description
 
@@ -10,8 +10,6 @@ The React Destination Search app is a user-friendly and visually appealing appli
 
 - Explore a diverse list of destinations from around the world
 - Filter destinations instantly based on your search input
-- Enjoy stunning images and captivating descriptions for each destination
-- Experience smooth and intuitive user interactions
 - Responsive design for seamless browsing on all devices
 
 ### 🎯 Project Highlights
@@ -37,7 +35,7 @@ The React Destination Search app incorporates the following technologies:
 
 To experience the React Destination Search app, simply follow these steps:
 
-1. Access the live demo at [DestinationSearchApp.com](https://destination-search-app.com) or set up the project locally.
+1. Access the live demo at <a href='https://umakanth30.ccbp.tech/'>wanderkanth.com </a>or set up the project locally.
 
 2. To set up the project locally, clone the repository:
 
@@ -69,31 +67,7 @@ To experience the React Destination Search app, simply follow these steps:
    http://localhost:3000
    ```
 
-### 🎨 Design and Styling
-
-The React Destination Search app is designed with a modern and captivating user interface. It combines an elegant color scheme of deep #252627, rich #0f172a, and calming #f1f5f9 to create a visually pleasing experience. The typography is carefully chosen, featuring the sleek Roboto and versatile Open Sans font families.
-
-### 🌟 Project Enhancements
-
-To take the React Destination Search app to the next level, consider implementing these exciting enhancements:
-
-- Integrate pagination for search results to handle extensive destination lists.
-- Provide sorting options based on popularity, ratings, or user preferences.
-- Incorporate additional filters for refining search results by location, price range, or activity type.
-- Implement a map view to showcase destinations geographically.
-- Create personalized user accounts and allow saving favorite destinations.
-
-Let your creativity run wild and explore these enhancements to create an exceptional travel search experience!
 
 ### 📝 Additional Notes
 
 - The search functionality is case-insensitive, ensuring ease of use for users
-
- searching for destinations.
-- To optimize accessibility, make sure to set the `alt` attribute of destination images to the respective destination's name, as provided in the `destinationsList`.
-
----
-
-<p align="center">Feel the wanderlust and explore new horizons with the React Destination Search app. Happy travels! ✈️🌍</p>
-
-<p align="center">This repository is licensed under the <a href="LICENSE">MIT License</a>. Share the journey, share the joy!</p>
