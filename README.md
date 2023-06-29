@@ -9,7 +9,7 @@
 1. **Project 1 - React Destination Search** 🌟
    - **Description**: The React Destination Search app is a user-friendly and responsive website that allows you to explore various travel destinations around the world..
    - **Technologies**: React.js, HTML, CSS
-   - **Instructions**: [Project 1 README]([project1/README.md](https://github.com/UmakanthKaspa/ReactMiniProjects/tree/main/react-destination-search#readme))
+   - **Instructions**: [Project 1 README](https://github.com/UmakanthKaspa/ReactMiniProjects/tree/main/react-destination-search#readme)
 
 
 ### 💡 Remember, great things come in <strong>tiny packages</strong>! These mini projects may be small, but they carry a <strong>powerful punch</strong> and will elevate your coding skills to new heights! So, fasten your seatbelt, put on your coding hat, and let the <strong>fun-tastic coding adventures</strong> begin! 😄✨
